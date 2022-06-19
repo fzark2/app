@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967743436781",
+    "project_id": "chuck-norris-d70d1",
+    "storage_bucket": "chuck-norris-d70d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967743436781:android:cb4f811815e6c02fa519e4",
+        "android_client_info": {
+          "package_name": "com.example.fisrt_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967743436781-9cfrf2jdic8uotjgklol9i8mlrh6eeja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEBc6CBw26jUtHKq7VxIPUUPj2C3kWhfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967743436781-9cfrf2jdic8uotjgklol9i8mlrh6eeja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
